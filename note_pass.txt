@@ -1,0 +1,34 @@
+loi.phi/pteqvFQ84OqA : SVN        tuan.pham@techplusgroup.com.vn ngoc.huynh@techplusgroup.com.vn
+  loi.phi@techplusgroup.com.vn
+export: http://techplusgroup.com.vn:81/svn/CORETYM
+
+Mail:caomanh97@gmail.com
+Pass:anhanhanhmanh997
+facebook_pass:manhmanhloi997997
+tlu:anhmanh997
+
+  pass zoho: anhmanh997  
+PL/ SQL : SBVRP SBVRP
+redmine:/http://techplusgroup.com.vn:88/:  loi.phi/abcd1234/Anhmanh997
+CCF_03
+CCF123456
+MK_outlook: Anhmanh997  connect_server: Administrator/techplus123 techplus123
+
+A Hieu: 0975870797    A Hùng: 0988688030   A Tuan: 0912295335   A Tuyên: 0979112824    A Bình: 0352230710 
+A Tùng: 0358214596   C Ngoc: 0909119120    C Chinh: 0349653789  A Tín:0975114553    A Thanh:0398205815 A Thành:0787209666
+  
+C:\inetpub\report_tym\report\Reports 
+
+connect_test=/6IayY7irdy4NvzUzhiZjwkPvORnePqjAPpBiTRg0FSlnh56j4UCXD572hxtPOBKp8RAsA9tilZ5MXH2FnEffgil+axLEpD5I/IPbQGcFiezkRdJPgl5cVkySy2i5jVf+Qao+BnAvXR4q8hU0Nhpob1C839EyQ6vJDAAM8TMNRUoiNUdrp/mdkBglKlzvSt4cI3qhbkXGSrAtCqXzru3m5sB7FnaMlQxM4nNBD1xLxVWKNvclGX98all6kyPU5hJ1HYlXeceQUww=/
+connect_out=    <!--<add name="CORE_DB" connectionString="6IayY7irdy4NvzUzhiZjwkPvORnePqjAPpBiTRg0FSlnh56j4UCXD572hxtPOBKp8RAsA9tilZ5MXH2FnEffgil+axLEpD5I/IPbQGcFiezkRdJPgl5cVkySy2i5jVf+Qao+BnAvXR4q8hU0Nhpob1C839EyQ6vJDAAM8TMNRUoiNUdrp/mdkBglKlzvSt4cI3qhbkXGSrAtCqXzru3m5sB7FnaMlQxM4nNBD1xLxVWKNvclGX98all6kyPU5hJ1HYlXeceQUww="/>--> 
+
+C:\oracle\product\10.2.0\client_1\NETWORK\ADMIN  //TNS
+
+KEY: active pl/plsqln //46jvnzf74ysf3mqm4hx4tvhcamh8gpe3v5//706090//xs374ca
+
+http://techplusgroup.com.vn:96/coretym/Default.aspx?exppwd=0
+DB_TYM:"6IayY7irdy4KFOypZIEegAAd1jYGnAW8LssgnwZQqy+o7On3afigIoq58Q8ptLHVjV48VPjfDTWa/V2/nOx1liFWk/Ug6WxMdFc5zrTC6rmSCX8YQH62Xa4sLR55JvE+4ogtOr58ZIZREy4dUGzhDG4D20ARRpW6IjVHa6f5nZAYJSpc70reHCN6oW5FxkqwLQql867t5ubAexZ2jJUMTOJzQQ9cS8VVijb3JRl/fGpZepMj1OYSdR2JV3nHkFMM"
+
+auto00100/123; sys00100/123
+auto00200/123; sys00200/123
+auto00300/123; sys00300/123
